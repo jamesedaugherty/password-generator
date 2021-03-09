@@ -23,7 +23,15 @@ THEN the password is either displayed in an alert or written to the page
 */ 
 
 //Create variables 
-
+var generateBtn = document.querySelector("#generate");
+var lowercaseChar = "abcdefghijklmnopqrstuvwxyz";
+var uppercaseChar = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var numberChar = "0123456789";
+var specialChar = "!@#$%^&*()_-+={}[];:'`~<,>.?/|"
+var passwordLength;
+var uppercaseCheck;
+var numberCheck;
+var specialCheck;
 
 
 //Create a function to determine password length

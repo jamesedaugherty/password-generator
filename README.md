@@ -11,9 +11,11 @@ I struggle with remembering to do git commits, it's something I need to get bett
 
 My biggest takeaway from this assignment was to start with a commenting wireframe and build within it. I lost the practicality of the app in thinking about the code.
 
-Here is the link to the Github Pages -> https://jamesedaugherty.github.io/password-generator/
-Here is the link to the Repository -> https://github.com/jamesedaugherty/password-generator
-Here is the link to the screenshot -> !["Screenshot"](assets/images/screenshot.png "Shows Red Button, and prompt.")
+Here is the link to the Github Pages -> https://jamesedaugherty.github.io/password-generator/ <br>
+Here is the link to the Repository -> https://github.com/jamesedaugherty/password-generator <br>
+<br>
+<br>
+!["Screenshot"](assets/images/screenshot.png "Shows Red Button, and prompt.")
 
 Below is the assignment README
 
